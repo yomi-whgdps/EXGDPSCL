@@ -1,0 +1,18 @@
+{
+    "id": 1603,
+    "name": "Sample Level 3",
+    "author": "TWISTED",
+    "creators": ["TWISTED"],
+    "verifier": "TWISTED",
+    "verification": "https://www.youtube.com/watch?v=au49o4xlcWo",
+    "percentToQualify": "65",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "Yomi",
+            "link": "https://skull",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
