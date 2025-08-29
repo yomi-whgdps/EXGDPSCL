@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "Keras",
+    "author": "Virek",
+    "creators": ["Virek"],
+    "verifier": "Virek",
+    "verification": "https://www.youtube.com/watch",
+    "percentToQualify": "65",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "iXRC",
+            "link": "https://www.youtube.com/watch",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Yomi",
+            "link": "https://www.youtube.com/watch",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
